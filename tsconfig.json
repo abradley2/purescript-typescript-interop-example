@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "noImplicitAny": false
+    },
+    "include": [
+        "src/Main.d.ts"
+    ]
+}
